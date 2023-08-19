@@ -1,0 +1,9 @@
+.modal-image{
+    max-height: 250px !important;
+    min-height: 250px !important;
+    max-width: 250px !important;
+    min-width: 250px !important;
+    margin-right: 20px;
+    object-fit: cover;
+  }
+  
